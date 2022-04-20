@@ -1,6 +1,4 @@
-# Week 4 Assignment
-
-Mathematics Game Homework
+Mathematics Game
 
 - You will have 10 questions every tour.
 - When you select an answer if its correct background will be green, if its not correct background will be red and you will see the correct answer.
